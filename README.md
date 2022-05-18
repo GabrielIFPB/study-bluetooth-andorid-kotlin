@@ -1,1 +1,1 @@
-# study-bluetooth-andorid-kotlin
+# Studying Android Bluetooth API
